@@ -59,10 +59,10 @@ This project uses:
 ##  Output Screenshots
 
 ### 1. Upload Screen  
-![Upload](screenshots/upload_screen.png)
+![Upload](screenshots/upload_screen.jpg)
 
 ### 2. Transcription Result  
-![Transcription](screenshots/transcription_screen.png)
+![Transcription](screenshots/transcription_screen.jpg)
 
 
 ---

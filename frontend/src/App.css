@@ -1,0 +1,71 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #ffecd2, #fcb69f); /* peach-pink gradient */
+  font-family: 'Poppins', sans-serif;
+}
+
+.app-container {
+  text-align: center;
+  padding-top: 5rem;
+  color: #2c003e;
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 2rem;
+  background: -webkit-linear-gradient(#9c27b0, #e91e63);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
+
+input[type="file"] {
+  padding: 0.6rem;
+  border: 2px dashed #9c27b0;
+  border-radius: 8px;
+  background-color: #ffffffb0;
+  transition: 0.3s ease;
+}
+
+input[type="file"]:hover {
+  background-color: #ffe0f0;
+}
+
+button {
+  margin-top: 1.5rem;
+  padding: 0.7rem 1.5rem;
+  background: linear-gradient(to right, #9c27b0, #e91e63);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(156, 39, 176, 0.4);
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.05);
+  background: linear-gradient(to right, #7b1fa2, #c2185b);
+}
+
+.transcript-box {
+  margin: 2rem auto;
+  padding: 1.5rem;
+  width: 70%;
+  background: #fff;
+  border-left: 6px solid #9c27b0;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  color: #333;
+  text-align: left;
+}
+
+.transcript-box h3 {
+  color: #9c27b0;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}

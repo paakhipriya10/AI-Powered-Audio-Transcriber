@@ -1,0 +1,14 @@
+/* index.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, #ffe4e1, #ffccf9); /* soft pink-violet gradient */
+  font-family: 'Poppins', sans-serif;
+  color: #2d0036;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}

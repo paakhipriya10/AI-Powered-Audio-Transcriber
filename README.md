@@ -6,7 +6,7 @@ A full-stack web application that transcribes audio to text using AssemblyAI’s
 
 ##  Demo Video
 
-[Watch Demo Video](https://your-demo-video-link.com)  
+[Watch Demo Video](https://youtu.be/xspcfijeCsA)  
 
 
 ---

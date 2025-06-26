@@ -70,6 +70,7 @@ This project uses:
 ##  How to Run Locally
 
 ###  Backend (Spring Boot)
+Note: please manually rename the uploaded `mvn_temp` folder to `.mvn` in your local project directory before running the backend
 1. Clone the project.
 2. Navigate to backend folder:
    ```bash

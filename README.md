@@ -84,11 +84,11 @@ This project uses:
    ```bash
    cd backend
 8.Install dependencies
-  ```bash
-  npm install
+   ```bash
+   npm install
 9.Start the frontend
-  ```bash
-  npm start
+    ```bash
+    npm start
 10.The app should now run at: (http://localhost:3000)
 
 

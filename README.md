@@ -4,20 +4,20 @@ A full-stack web application that transcribes audio to text using AssemblyAI’s
 
 ---
 
-## 🎬 Demo Video
+##  Demo Video
 
 [Watch Demo Video](https://your-demo-video-link.com)  
 
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Manual transcription of audio is time-consuming, prone to errors, and inefficient. Professionals, students, and researchers often need fast, reliable transcription tools that work across platforms.
 
 ---
 
-## ✅ Solution Approach
+##  Solution Approach
 
 This project uses:
 - A **React.js** frontend to create an intuitive interface for uploading audio files.
@@ -26,7 +26,7 @@ This project uses:
 
 ---
 
-## 🧰 Tech Stack Used
+## Tech Stack Used
 
 | Layer           | Technology              |
 |----------------|--------------------------|
@@ -37,7 +37,7 @@ This project uses:
 
 ---
 
-## ✨ Features
+##  Features
 
 - Upload audio files (`.mp3`, `.wav`, etc.) directly from browser.
 - Automatic transcription using AssemblyAI.
@@ -47,7 +47,7 @@ This project uses:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add microphone-based live recording and transcription.
 - Support subtitle (SRT/VTT) file download.
@@ -56,7 +56,7 @@ This project uses:
 
 ---
 
-## 📸 Output Screenshots
+##  Output Screenshots
 
 ### 1. Upload Screen  
 ![Upload](screenshots/upload_screen.png)
@@ -68,9 +68,9 @@ This project uses:
 
 ---
 
-## 🛠️ How to Run Locally
+##  How to Run Locally
 
-### ⚙️ Backend (Spring Boot)
+###  Backend (Spring Boot)
 1. Clone the project.
 2. Navigate to backend folder:
    ```bash

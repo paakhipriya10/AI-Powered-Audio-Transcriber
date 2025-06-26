@@ -64,7 +64,6 @@ This project uses:
 ### 2. Transcription Result  
 ![Transcription](screenshots/transcription_screen.png)
 
-> *(Save your screenshots in a `/screenshots` folder and update these image names if needed.)*
 
 ---
 

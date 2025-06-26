@@ -83,13 +83,13 @@ This project uses:
 7. Navigate to frontend folder
    ```bash
    cd backend
-8.Install dependencies
-    ```bash
-    npm install
-9.Start the frontend
-    ```bash
-    npm start
-10.The app should now run at: (http://localhost:3000)
+8. Install dependencies
+   ```bash
+   npm install
+9. Start the frontend
+   ```bash
+   npm start
+10. The app should now run at: (http://localhost:3000)
 
 
 
